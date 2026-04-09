@@ -27,9 +27,6 @@ Tired of manual data entry in spreadsheets? This bot automates the process with:
 ### One-Click Setup
 
 
-# Clone the repository
-git clone https://github.com/ElishaKongolo/data-entry-bot.git
-
 # Navigate to project
 cd data-entry-bot
 
